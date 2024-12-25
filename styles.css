@@ -1,0 +1,22 @@
+body {
+    min-width: 350px;
+    max-width: 500px;
+    padding: 1rem;
+}
+
+.list-group-item {
+    word-break: break-word;
+}
+
+.spinner-border {
+    margin-left: 0.5rem;
+}
+
+#results {
+    margin-top: 1rem;
+}
+
+.copy-btn {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+}
