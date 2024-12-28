@@ -4,8 +4,7 @@
   "version": "1.0",
   "description": "Extract music mentions from Reddit threads",
   "permissions": [
-    "activeTab",
-    "scripting"
+    "activeTab"
   ],
   "host_permissions": [
     "https://*.reddit.com/*",
